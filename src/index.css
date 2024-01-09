@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://www.shutterstock.com/shutterstock/photos/1051589783/display_1500/stock-vector-stock-market-and-exchange-candle-stick-graph-chart-of-stock-market-investment-trading-stock-1051589783.jpg'); /* Replace 'path_to_your_image.jpg' with the path to your image */
+  background-size: cover; /* Adjusts the size of the background image */
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
